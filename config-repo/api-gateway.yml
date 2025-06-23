@@ -27,7 +27,7 @@
 #  port: 7075
 spring:
   application:
-    name: user-management-service
+    name: api-gateway
 
   datasource:
     url: jdbc:mysql://localhost:3306/carparking
